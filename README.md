@@ -284,7 +284,7 @@ Ejemplo:
 
 Recursos adicionales:
 
-- [Documentación de React](https://es.reactjs.org/)
+- [Documentación de React](https://es.react.dev/learn)
+- [Gestión del estado en React](https://es.react.dev/learn/managing-state)
 - [React Router](https://reactrouter.com/en/main/start/tutorial)
-- [Introducción a React Hooks](https://es.reactjs.org/docs/hooks-intro.html)
 - [Fetch API en JavaScript](https://developer.mozilla.org/es/docs/Web/API/Fetch_API)
