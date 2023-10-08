@@ -188,7 +188,7 @@ Ejemplo:
   }
   ```
 
-3. Definimos las rutas de nuestra app en el componente App.
+4. Definimos las rutas de nuestra app en el componente App.
 
 - Fichero App.jsx
 
@@ -220,7 +220,7 @@ Ejemplo:
   }
   ```
 
-4. Creamos nuestro componente Navegacion y añadimos los Links con las rutas de nuestra applicación.
+5. Creamos nuestro componente Navegacion y añadimos los Links con las rutas de nuestra applicación.
 
 - Fichero Navegacion.jsx
 
@@ -246,7 +246,7 @@ Ejemplo:
   }
   ```
 
-5. Añadimos nuestro componente Navegacion al Ejercicio3 y tambien en las otras paginas (Excepto NotFound).
+6. Añadimos nuestro componente Navegacion al Ejercicio3 y tambien en las otras paginas (Excepto NotFound).
 
 - Ejemplo en pagina About (Fichero About.jsx):
 
