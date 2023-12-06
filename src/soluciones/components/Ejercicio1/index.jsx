@@ -1,5 +1,6 @@
 import { useState } from 'react'
-import TituloEjercicio from '../TituloEjercicio'
+import TituloEjercicio from '../../../components/TituloEjercicio'
+
 
 function ChildComponent(props) {
   return (
